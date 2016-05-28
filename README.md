@@ -1,2 +1,3 @@
 # hello-world
 my first repository (jeez what a weird word...)
+// write something about myself? uhm.... 
